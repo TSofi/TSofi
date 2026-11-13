@@ -1,22 +1,27 @@
-### Hi there, I'm Sofi!
+# Sofiia Tretiak
 
-💻 **Bio**  
-I'm a bioengineering & tech enthusiast diving deep into machine learning, DevOps, and data analysis. Passionate about Python, SQL, and all things related to code efficiency & problem-solving.
+AI & Python engineer with a medical informatics background, based in Vienna.
+I build AI and data products for health, end to end, and I like results that can be checked: cited answers and clean evaluations.
 
-🚀 **Projects & Contributions**  
-Most of my personal projects can be found in my repositories, but I also contribute to other projects! You can check them out in my **[Starred Repositories](https://github.com/TSofi?tab=stars)**.⭐
+**Portfolio & CV → [sofiia-tretiak.vercel.app](https://sofiia-tretiak.vercel.app)** · [LinkedIn](https://www.linkedin.com/in/sofia-tretiak/)
 
-📫 **Let's Connect!**  
-- LinkedIn  *https://www.linkedin.com/in/sofia-tretiak/*
+Currently: MSc Medical Engineering & eHealth at UAS Technikum Wien.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat-square&logo=prettier&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TSofi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TSofi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TSofi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Selected work
 
----
-[![](https://visitcount.itsvg.in/api?id=TSofi&icon=0&color=11)](https://visitcount.itsvg.in)
+| | |
+|---|---|
+| **[PharmaRAG](https://github.com/TSofi/pharma-rag)** | Medicine questions answered only from official leaflets in six countries, every sentence cited. [Live](https://pharma-rag-nine.vercel.app) |
+| **EEG emotion recognition** | Research traineeship (2026): showed that published accuracy on FACED mostly comes from recognising the videos, not the emotions. |
+| **[EyeSpy](https://github.com/TSofi/Emotions-and-stress-detector)** | Real-time emotion and fatigue detection from a webcam (ResNet18, MediaPipe). |
+| **[Career Shark](https://github.com/TSofi/career_shark_frontend)** | Duolingo-style career paths for IT beginners. 7th of ~50 teams, BEST Hackathon (24h). |
+| **[Buckwheat Sort](https://buckwheat-sort.vercel.app/?lang=en)** | A calm browser game, one file, installable on a phone. |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Stack
+
+- **AI & LLM:** RAG pipelines · embeddings · vector search (Qdrant) · hybrid re-ranking · source citation · LLM APIs (Groq, Gemini, Claude) · prompt design · LLM output & retrieval evaluation · AI-assisted development
+- **Machine learning:** PyTorch · GRU & Transformer models · CNNs (ResNet) · ensembles · scikit-learn · OpenCV · MediaPipe · NumPy · pandas · SciPy · Matplotlib
+- **Backend:** Python · FastAPI · Django · REST APIs · Pydantic · SQLAlchemy · pytest · Java · Spring
+- **Data & infra:** SQL · PostgreSQL · MongoDB · Docker · Git · Vercel · Render · Azure DevOps
+- **Frontend:** TypeScript · React · JavaScript
+- **Health data:** HL7 FHIR · OMOP CDM · DHIS2 · EEG & biomedical signal processing
